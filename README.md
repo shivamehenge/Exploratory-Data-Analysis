@@ -6,7 +6,7 @@ IDE :- Jupyter notebook
 Language :- Python
 
 
-
+Dataset: https://bit.ly/2TK5Xn5
 
 
 Project :-EDA on Terrorism Dataset (Intermediate Level)
